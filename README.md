@@ -27,6 +27,3 @@ kubectl rollout status deployment/orders-api
 
 ## Terraform
 The Terraform files demonstrate the infrastructure contract and intentionally avoid provider-specific cloud credentials.
-
-## Portfolio story
-Explain this as a reliability problem: the objective is not simply "deploy an API", but make releases repeatable, observable and recoverable.
